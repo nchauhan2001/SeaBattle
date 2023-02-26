@@ -3,6 +3,7 @@
 # Project #2: Sea Battle II 
 
 Sea Battle II was the last project of this course which was done in a group of 3 students including me.
+
 Nidhi Chauhan; Sunit Sharma; Dalton Estes
 
 The purpose of this project was to get the enough of practice using GUI programming and the Model/View/Controller design pattern to implement a game called "Sea Battle II". 
@@ -24,16 +25,21 @@ When player's turn ends, the players reverse roles on the next turn starts, and 
 
 The complement of ships is as follows in each player's fleet:
 
-Quantity     Ship Type     Squares
+Quantity       Ship Type      Squares
 
    1      Aircraft Carrier    5
+   
    1        Battleship        4
+   
    2        Destroyer         3
+   
    2        Submarine         3
+   
    3        Patrol Boat       2
   
 As a result, the squares occupied by each ship are indicated by icons within the primary grid.  
 As the players take their shots, the target squares are marked with a "splash icon" if the shot was a miss, or an "explosion icon" if the shot resulted in a hit or a sink.  Corresponding marks are also made in each player's tracking grid, so that the player can keep track of which squares they have already fired upon. 
 
 This project was a great opportunity for me to learn how to implement this 'Battleship' game using Java's advanced tool GUI & Model/View/Controller.
+
 Thank you so much!
